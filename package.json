@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.6.0"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "chat-app",
+  "description": "chat application using socket.io",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdelbasset4/chat-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdelbasset4/chat-app/issues"
+  },
+  "homepage": "https://github.com/abdelbasset4/chat-app#readme"
+}
